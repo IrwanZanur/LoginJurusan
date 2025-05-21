@@ -74,9 +74,8 @@
 
     <script>
         const allowedNIS = [
-            "2415980", "2415981", "2415982", "2415983", "2415984", "2415985",
-            "2415986", "2415987", "2415988", "2415989", "2415990"
-            // Tambahkan NIS lainnya sesuai kebutuhan
+            "2415980", "2415981", "2415982", "2415983", "2415984", "2415985"
+            // Tambahkan lebih banyak NIS sesuai kebutuhan
         ];
 
         const redirectURL = "https://sites.google.com/guru.smk.belajar.id/smkn-26-jakarta-kurikulum/sumatif-akhir-semester-genap/pelaksaan-sas/kelas-x";
@@ -99,4 +98,5 @@
     </script>
 </body>
 </html>
+
 
